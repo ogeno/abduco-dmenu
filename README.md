@@ -4,7 +4,7 @@
 
 Look also at [ogeno/oneliners](https://github.com/ogeno/oneliners.git) for other, minimalist version. 
 
-## Optoons 
+## Options 
 
 You can pass any `dmenu` options on the commandline.
 
